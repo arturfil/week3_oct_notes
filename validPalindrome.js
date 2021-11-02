@@ -35,11 +35,13 @@ function whileIsValid(word) {
   return true;
 }
 
-whileIsValid('radar');
+// whileIsValid('radar');
 // i
 // R A C E C A R
 
-function revers(word) {
+function isPalindrome(word) {
   let rev = word.split("").reverse().join("");
   return rev == word ? true : false;
 }
+
+// console.log(isPalindrome('radasr'));
