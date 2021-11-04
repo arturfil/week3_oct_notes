@@ -35,7 +35,7 @@ function whileIsValid(word) {
   return true;
 }
 
-// whileIsValid('radar');
+whileIsValid('radar');
 // i
 // R A C E C A R
 
