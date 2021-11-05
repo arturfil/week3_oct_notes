@@ -12,3 +12,5 @@ context.fillStyle = 'white'
 ctx.beginPath();
 ctx.arc(100, 75, 50, 0, 2 * Math.PI);
 ctx.stroke();
+
+// commited, added buttons
